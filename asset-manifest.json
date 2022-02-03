@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jobseekerwebsitedesign/static/css/main.a57d3484.css",
+    "main.js": "/jobseekerwebsitedesign/static/js/main.77623180.js",
+    "static/media/background.png": "/jobseekerwebsitedesign/static/media/background.00c066dc0b70e75b96c2.png",
+    "static/media/Frame 19.png": "/jobseekerwebsitedesign/static/media/Frame 19.1ea98a56e3c14dcb1083.png",
+    "static/media/s1.png": "/jobseekerwebsitedesign/static/media/s1.0a22d0af2ac46f402f41.png",
+    "static/media/s2.png": "/jobseekerwebsitedesign/static/media/s2.2a9f596b9b34f01dbebb.png",
+    "index.html": "/jobseekerwebsitedesign/index.html",
+    "main.a57d3484.css.map": "/jobseekerwebsitedesign/static/css/main.a57d3484.css.map",
+    "main.77623180.js.map": "/jobseekerwebsitedesign/static/js/main.77623180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a57d3484.css",
+    "static/js/main.77623180.js"
+  ]
+}
